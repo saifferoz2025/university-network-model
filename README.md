@@ -27,6 +27,6 @@ To understand and apply network design principles in a university setting, inclu
 
 ## 👨‍💻 Author
 
-**Saif Ur Rehman**  
-[LinkedIn] (https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
+**Muhammad Saif Ur Rehman Feroz** 
+[![LinkedIn Badge](https://shields.io)](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
 
